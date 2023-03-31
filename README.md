@@ -13,3 +13,6 @@ This is an example of a GitHub repository.
 I am a professional software developer now! Wohooo! WOhooo!
 
 But I did it!
+
+Changes I made of Gitpod
+Ok
